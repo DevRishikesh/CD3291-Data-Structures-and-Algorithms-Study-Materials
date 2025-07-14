@@ -35,9 +35,10 @@ class Stack:
 - OOP is a way of writing code using objects and classes that mimic real-world things.
 ---
 ##🔑 Four Main Concepts:
--------------------------------------------------------------------
+ 
 | Concept        | Meaning                                        |
+-------------------------------------------------------------------
 | Encapsulation  | Keep data + functions in one unit (class)      |
-| Abstraction    |	Hide complex code, show only important stuff  |
-| Inheritance	   | Child class gets parent class features         |
+| Abstraction    | Hide complex code, show only important stuff   |
+| Inheritance	 | Child class gets parent class features         |
 | Polymorphism	 | Same function, different behavior              |
